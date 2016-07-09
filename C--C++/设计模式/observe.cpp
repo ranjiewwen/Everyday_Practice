@@ -25,7 +25,6 @@ public:
 	{
 		cout << "ConcreteObserver get the update. New State:" << value << endl;
 	}
-
 private:
 	Subject *m_pSubject;
 };
