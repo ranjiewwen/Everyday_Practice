@@ -92,7 +92,7 @@ def gen_qrcode(string, path, logo=""):
 
 if __name__ == "__main__":
     info = "http://www.cnblogs.com/ranjiewen/"
-    pic_path = "jiewen.jpg"
+    pic_path = "F:/jiewen.jpg"
     icon_path = "F:/logo.png"
     gen_qrcode(info, icon_path, pic_path )
    # print decode_qrcode(pic_path)
