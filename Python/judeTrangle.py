@@ -56,7 +56,7 @@ def isTrangle(x1_,y1_,x2_,y2_,x3_,y3_):
         return True
     
 def main():
-    print("Please enter(x,y) of three points in turn")
+    print("Please enter(x,y) of three points in turn：")
     #获取用户输入的三个坐标
     x1,y1=(input("Point1:(x,y) ="))  #eval()
     x2,y2=(input("Point2:(x,y) ="))
