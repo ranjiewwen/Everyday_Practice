@@ -113,3 +113,22 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+<pre>
+<code>
+class A
+{
+ public:
+	void fun(){}
+};
+
+#include <iostream>
+using namespace std;
+
+ int main()
+ {
+	cout << sizeof(A) << endl; 
+	return 0;
+ }
+</code>
+</pre>
+
