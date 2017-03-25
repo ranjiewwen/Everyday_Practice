@@ -132,3 +132,13 @@ using namespace std;
 </code>
 </pre>
 
+![](http://i.imgur.com/8L8Bzo6.png)
+
+![lena](http://i.imgur.com/wSIVQne.jpg)
+
+
+
+## reference:
+> [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/#list)
+
+> [Markdown 编辑器语法指南](https://segmentfault.com/markdown)
